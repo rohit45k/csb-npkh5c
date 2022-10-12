@@ -1,0 +1,2 @@
+*{margin:0;box-sizing:border-box}body{font-family:sans-serif;height:100vh;background-color:coral;display:flex;flex-direction:column}.container,body{justify-content:center;align-items:center}.container{width:max-content;height:max-content;margin:auto;display:grid;gap:1rem;grid-template-columns:1fr 1fr;justify-items:center}.button{width:100px;height:100px;display:inline-block}.red{background-color:red}.green{background-color:green}.yellow{background-color:#ff0}.blue{background-color:#00f}
+/*# sourceMappingURL=/csb-npkh5c/styles.aadf1081.css.map */
